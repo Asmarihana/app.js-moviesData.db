@@ -1,0 +1,8 @@
+GET http://localhost:3002/states/
+
+###
+
+GET http://localhost:3002/states/1/
+
+###
+POST http://localhost:3002/districts/
