@@ -6,3 +6,16 @@ GET http://localhost:3002/states/1/
 
 ###
 POST http://localhost:3002/districts/
+
+
+###
+GET http://localhost:3002/districts/322/
+
+###
+DELETE http://localhost:3002/districts/1/
+
+###
+GET http://localhost:3002/states/5/stats/
+
+###
+GET http://localhost:3002/districts/2/details/
